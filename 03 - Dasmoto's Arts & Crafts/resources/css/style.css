@@ -24,8 +24,9 @@ div p{
   font-family: Helvetica;
 }
 
-strong{
+.prices{
   color: blue;
+  font-weight: bold;
 }
 
 .frames h2{
